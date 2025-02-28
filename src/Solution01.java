@@ -1,6 +1,5 @@
 import llm.*;
-import web_client.IWebClient;
-import web_client.WebClient;
+import web_client.*;
 
 import java.util.LinkedList;
 
